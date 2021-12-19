@@ -12,3 +12,11 @@ The Contact me section contains my phone number, email address, github link and 
 
 I also have a PDF copy of my resume on my portfolio.
 
+![First half of my portfolio] (https://github.com/niccolosaurus/professional-portfolio/blob/main/assets/Portfolio-1.png?raw=true)
+
+![Second half of my portfolio] (https://github.com/niccolosaurus/professional-portfolio/blob/main/assets/Portfolio-2.png?raw=true)
+
+![Portfolio-1] (./assets/Portfolio-1.png)
+
+![Portfolio-2] (./assets/Portfolio-2.png)
+
