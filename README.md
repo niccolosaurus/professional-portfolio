@@ -6,17 +6,16 @@ When you click on any of the sections it takes you to that location on the portf
 
 The About Me section is complete with an about me section as to what I am trying to accomplish and what I "know" how to do in coding.
 
-The Work sectio has 3 pictures that are href links that will take you to my GitHub repository. They are also sized that the top picture is larger than the two beneath it.  They are eavenly spaced and in alignment with each other.
+I have updated my works tab to include some code and projects that I have worked on.
 
 The Contact me section contains my phone number, email address, github link and linkedin, also.  Clickin on the GitHub and LinkedIn logo will take you to the respected sites.
 
 I also have a PDF copy of my resume on my portfolio.
 
-![First half of my portfolio] (https://github.com/niccolosaurus/professional-portfolio/blob/main/assets/Portfolio-1.png?raw=true)
+![Portfolio-1](https://raw.githubusercontent.com/niccolosaurus/professional-portfolio/main/assets/Portfolio-1.png)
 
-![Second half of my portfolio] (https://github.com/niccolosaurus/professional-portfolio/blob/main/assets/Portfolio-2.png?raw=true)
+![Portfolio-2](https://raw.githubusercontent.com/niccolosaurus/professional-portfolio/main/assets/Portfolio-2.png)
 
-![Portfolio-1] (./assets/Portfolio-1.png)
+![Portfolio-3](https://raw.githubusercontent.com/niccolosaurus/professional-portfolio/main/assets/Portfolio-3.png)
 
-![Portfolio-2] (./assets/Portfolio-2.png)
-
+https://niccolosaurus.github.io/professional-portfolio/
